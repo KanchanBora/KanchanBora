@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanchanbora31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanchanbora31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanchan bora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchan bora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanchan bora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kanchan Bora" height="30" width="40" /></a>
 <a href="https://kaggle.com/kanchanbora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanchanbora" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kanchan_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanchan_31" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kanchanbora31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanchanbora31" height="30" width="40" /></a>
