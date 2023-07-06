@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1yBLYSnGiPi3WGJhyv5OKECMn5E8l0xlt/view)]
+[![MasterHead](https://github.com/KanchanBora/KanchanBora/blob/main/cover%20page.png)](https://kanchanbora.io)
 <h1 align="center">Hi 👋, I'm Kanchan Bora</h1>
 <h3 align="center">"Innovative Mind, Limitless Code: Unleashing the Potential of a Computer Science Major"</h3>
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/profile_images/1325796904312082433/rXdk-G67_400x400.jpg">
